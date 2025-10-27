@@ -1,0 +1,6 @@
+num_list = [1,2,3,4,5,6,7,8,9,10]
+ext_list = num_list[0:5]
+rvrse_list = ext_list.reverse
+print(num_list)
+print(ext_list)
+print(rvrse_list)
