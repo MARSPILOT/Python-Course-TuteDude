@@ -1,0 +1,7 @@
+try:
+    sample_txt = open("/workspaces/Python-Course-TuteDude/Assignment4/sample.txt","r")
+    reading_file = sample_txt.read()
+    sample_txt.close()
+    print(reading_file)
+except:
+    print('FILE NOT FOUND')
