@@ -1,0 +1,7 @@
+student_name = input("Enter the students name :")
+def markfinder():
+    student_marks = {"Ram":100,"Mubrak":85,"Ryan":20,"Adil":76,"Alizhan":47}
+    global student_name
+    result = student_marks.get(student_name,'student name not found')
+    return(result)
+print(student_name,'has scored', markfinder() )
