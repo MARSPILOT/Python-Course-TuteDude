@@ -1,0 +1,4 @@
+Task 1 = A recursive or loop function that takes in  a number from the input and calculates the factorial by subtracting 1 and then taking the factorial of the subtracted number and multiplying it with the original nubmer
+
+Task 2 = Imports the math module and then calculates the sine,square root,natural logarithm using the math.sin,math.sqrt, and math.log functions respectively
+ 
