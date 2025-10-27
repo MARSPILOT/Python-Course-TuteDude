@@ -1,0 +1,5 @@
+import math 
+x = int(input('Enter a number:'))
+print('The square root of x is:',math.sqrt(x))
+print('The sine of x is:',math.sin(x))
+print("The natural logarithm of x is:",math.log(x))
