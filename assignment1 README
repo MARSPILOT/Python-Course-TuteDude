@@ -1,0 +1,4 @@
+# Python-Course-TuteDude
+This is a repository for Tute dude's python course
+Q1.py is a programme that takes in two numbers from the user and performs different mathematical operations on them using the +,-,*,/ operators and then prints the sum,difference,product and quotient
+Q2.py is a programme that takes in the first and last name from the user and it then prints the added version of their name alongside a greeting
